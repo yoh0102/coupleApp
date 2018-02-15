@@ -1,0 +1,141 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,600,300);
+
+body {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    background: #eee;
+    font-size: 16px;
+    line-height: 1;
+    @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,600,300);
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+.postit1,
+.postit2,
+.postit3,
+.postit4 {
+    position: relative;
+    padding: 25px;
+    display: inline-block;
+    -webkit-box-shadow: 0 8px 10px -7px #999;
+    -moz-box-shadow: 0 8px 10px -7px #999;
+    box-shadow: 0 8px 10px -7px #999;
+    -webkit-border-bottom-right-radius: 60px 10px;
+    -moz-border-radius-bottomright: 60px 10px;
+    border-bottom-right-radius: 60px 10px;
+    margin: 0 0 20px 20px;
+}
+
+.postit1 h3,
+.postit2 h3,
+.postit3 h3,
+.postit4 h3 {
+    border-top-width: 2px;
+    border-top-style: dotted;
+    margin: 0 -25px;
+    padding: 15px 25px 0 25px;
+}
+
+.postit1 {
+    background: #fefabc;
+}
+.postit1 h3 {
+    border-top-color: #dbd581;
+}
+.postit2 {
+    background: #fdd7db;
+}
+.postit2 h3 {
+    border-top-color: #e6a1a8;
+}
+.postit3 {
+    background: #eaf763;
+}
+.postit3 h3 {
+    border-top-color: #72a201;
+}
+.postit4 {
+    background: #b9eaf6;
+}
+.postit4 h3 {
+    border-top-color: #6db4c4;
+}
+
+
+p {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+.postit1,
+.postit2,
+.postit3,
+.postit4 {
+    position: relative;
+    padding: 25px;
+    display: inline-block;
+    -webkit-box-shadow: 0 8px 10px -7px #999;
+    -moz-box-shadow: 0 8px 10px -7px #999;
+    box-shadow: 0 8px 10px -7px #999;
+    -webkit-border-bottom-right-radius: 60px 10px;
+    -moz-border-radius-bottomright: 60px 10px;
+    border-bottom-right-radius: 60px 10px;
+    margin: 0 0 20px 20px;
+}
+
+.postit1 h3,
+.postit2 h3,
+.postit3 h3,
+.postit4 h3 {
+    border-top-width: 2px;
+    border-top-style: dotted;
+    margin: 0 -25px;
+    padding: 15px 25px 0 25px;
+}
+
+.postit1 {
+    background: #fefabc;
+}
+.postit1 h3 {
+    border-top-color: #dbd581;
+}
+.postit2 {
+    background: #fdd7db;
+}
+.postit2 h3 {
+    border-top-color: #e6a1a8;
+}
+.postit3 {
+    background: #eaf763;
+}
+.postit3 h3 {
+    border-top-color: #72a201;
+}
+.postit4 {
+    background: #b9eaf6;
+}
+.postit4 h3 {
+    border-top-color: #6db4c4;
+}
